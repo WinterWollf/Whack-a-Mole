@@ -1,5 +1,7 @@
 # Whack-a-Mole
 
+## Description
+
 Whack-a-Mole is an Android game where players tap on moles and elixirs that randomly pop up on the screen. The game features various power-ups and challenges to keep the gameplay exciting and enjoyable.
 
 ## Technologies Used
